@@ -1,0 +1,19 @@
+<html>
+    <body style="font-family:sans-serif;">
+        <header style="background-color:white">
+            <a>МЕМЧИКИ!!</a>
+        </header>
+        <main style="background-color:lightblue">
+            <h1 style="color:navy; text-align:center;font-size:40px">Мама та я😀</h1>
+            <p style="font-size:25px;text-align:center;">На нашому сайті будуть опубліковані: Мемчики!!<br/>Когда накосячил и смотришь на маму</p>
+            <img src="https://pm1.aminoapps.com/6876/a619589018ce267233f20d84ed7267337e7683fbr1-720-875v2_uhq.jpg"width="200" height="200"/>
+            <img src="https://i0.wp.com/rau.ua/wp-content/uploads/2023/07/fwjuwi8wyaex6x2.jpg?resize=1696%2C1870&ssl=1"width="200" height="200"/>
+            <img src="https://medplatforma.com.ua/images/17098/mem_7.jpg"width="200" height="200"/>
+            <img src="https://vgorode.ua/img/article/12143/15_main-v1658903024.jpg"width="200" height="200"/>
+            <img src="https://cbn.com.ua/wp-content/uploads/2022/05/2022-05-06_15-49_501890.jpg"width="200" height="200"/>
+        </main>
+        <footer style="color:navy">
+            <p>МЕМЧИК З ІНТЕРНЕТУ!!</p>
+        </footer>
+    </body>
+</html>
